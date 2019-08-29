@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.174974e9ad6938883fd06f841c23d907.css"],"names":[],"mappings":"AACA,IACE,kBAAoB,CACrB,AAED,wBACE,kBAAoB,CACrB","file":"app.174974e9ad6938883fd06f841c23d907.css","sourcesContent":["\nnav {\n  margin-bottom: 10px;\n}\n\n.email[data-v-e8d83fb4] {\n  padding-right: 10px;\n}\n"]}
